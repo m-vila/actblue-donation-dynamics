@@ -11,6 +11,8 @@ The analysis uses two primary datasets:
  1. ActBlue's FEC Filing Sample (Feb-Apr 2020) - Contains detailed information about individual contributions processed through ActBlue
  2. FEC Committee Data for the 2020 cycle - Provides information about political committees receiving funds
 
+## Project Structure
+
 The project follows a structured data analysis approach:
 
  1. Data Understanding & Hygiene
@@ -45,7 +47,7 @@ The project follows a structured data analysis approach:
 
 To visualize the dashboard, click [the following link](https://public.tableau.com/views/ActBluePulseDonationDynamicsDashboard/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-**Future Work**
+## Future Work
 
 Potential extensions to this analysis could include:
 
