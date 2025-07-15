@@ -45,7 +45,12 @@ The project follows a structured data analysis approach:
  * Key metrics to build the dashboard
  * Extracting the final dataset to use for the dashboard
 
-To visualize the dashboard, click [the following link](https://public.tableau.com/views/ActBluePulseDonationDynamicsDashboard/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Dashboard Preview:
+
+![actblue-donation-dynamics](https://github.com/m-vila/actblue-donation-dynamics/blob/main/Actblue%20Dashboard%20Prev.png?raw=true)
+
+
+To visualize the dashboard and interact with the data, click [the following link](https://public.tableau.com/views/ActBluePulseDonationDynamicsDashboard/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Future Work
 
